@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7326
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Bouchor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17363#Isra-l-en--gypte-tude-sur-un-oratorio-de-G.F.-H-ndel
 gutenberg_bookshelf:
 - Christianity
 - FR Musique
