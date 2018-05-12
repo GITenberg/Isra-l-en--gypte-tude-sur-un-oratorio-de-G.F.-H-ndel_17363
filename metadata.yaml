@@ -1,0 +1,32 @@
+_repo: Isra-l-en--gypte-tude-sur-un-oratorio-de-G.F.-H-ndel_17363
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bouchor, Maurice
+    birthdate: 1855
+    deathdate: 1929
+    gutenberg_agent_id: '7326'
+    url: http://www.gutenberg.org/2009/agents/7326
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Bouchor
+description: ''
+gutenberg_bookshelf:
+- Christianity
+- FR Musique
+gutenberg_issued: '2005-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17363'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Handel, George Frideric, 1685-1759. Oratorios'
+- !lcc 'ML'
+title: 'Israël en Égypte
+
+  Étude sur un oratorio de G.F. Hændel'
+url: http://www.gutenberg.org/ebooks/17363
